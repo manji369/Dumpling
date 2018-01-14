@@ -1,0 +1,10 @@
+.serverless
+*.pyc
+*.pyo
+boto*/
+nltk*/
+six*/
+textblob*/
+log*
+six*
+Daily*
